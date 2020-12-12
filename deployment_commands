@@ -1,0 +1,4 @@
+kubectl get deployments
+kubectl get deployments --namespace=webservers
+kubectl scale deployment web --replicas=15
+kube
